@@ -11,9 +11,10 @@ To troubleshoot charging problem in EVs and to save time of customers we propose
 * Backend Development: Building a robust database to manage user accounts, charging stations, and slot availability.
 * Frontend Development: Creating an intuitive and user-friendly interface for users to browse, book, and manage slots.
 * Real-time Updates: Implementing mechanisms to update slot availability in real-time
-![image](C:\Users\netware\Pictures\Screenshots\Screenshot (2).png)
-![image](C:\Users\netware\Pictures\Screenshots\Screenshot (3).png)
-![image](C:\Users\netware\Pictures\Screenshots\Screenshot (4).png)
-![image](C:\Users\netware\Pictures\Screenshots\Screenshot (5).png)
-![image](C:\Users\netware\Pictures\Screenshots\Screenshot (6).png)
-![image](C:\Users\netware\Pictures\Screenshots\Screenshot (7).png)
+# Screenshots of the web application
+![Screenshot (2)](https://github.com/Sakshi58/ReBoot-Point/assets/94946582/280cbd56-675b-43d2-a0cd-9e5a5ba006a3)
+![Screenshot (3)](https://github.com/Sakshi58/ReBoot-Point/assets/94946582/b6a09f45-2490-4473-9a5a-879005cf8b84)
+![Screenshot (4)](https://github.com/Sakshi58/ReBoot-Point/assets/94946582/634deef8-eb16-439e-8210-41d1a07bdfb1)
+![Screenshot (5)](https://github.com/Sakshi58/ReBoot-Point/assets/94946582/74ef2714-a9f0-42ed-81d4-ffde22e279ad)
+![Screenshot (6)](https://github.com/Sakshi58/ReBoot-Point/assets/94946582/78242855-2744-42da-854a-3db5f8547ea3)
+![Screenshot (7)](https://github.com/Sakshi58/ReBoot-Point/assets/94946582/e788ae54-9406-4c5f-a481-d026051ea6bc)
