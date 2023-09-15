@@ -11,3 +11,9 @@ To troubleshoot charging problem in EVs and to save time of customers we propose
 * Backend Development: Building a robust database to manage user accounts, charging stations, and slot availability.
 * Frontend Development: Creating an intuitive and user-friendly interface for users to browse, book, and manage slots.
 * Real-time Updates: Implementing mechanisms to update slot availability in real-time
+![image](C:\Users\netware\Pictures\Screenshots\Screenshot (2).png)
+![image](C:\Users\netware\Pictures\Screenshots\Screenshot (3).png)
+![image](C:\Users\netware\Pictures\Screenshots\Screenshot (4).png)
+![image](C:\Users\netware\Pictures\Screenshots\Screenshot (5).png)
+![image](C:\Users\netware\Pictures\Screenshots\Screenshot (6).png)
+![image](C:\Users\netware\Pictures\Screenshots\Screenshot (7).png)
